@@ -11,7 +11,7 @@ def main():
 
     df = pd.read_csv(RAW_PATH)
 
-    # добавяме transaction_id ако няма
+    # добавям transaction_id ако няма
     if "transaction_id" not in df.columns:
         df.insert(0, "transaction_id", range(1, len(df) + 1))
 
