@@ -33,7 +33,7 @@ def main():
         ("scaler", StandardScaler()),
         ("model", LogisticRegression(max_iter=1000))
     ])
-
+              
     print("Training model...")
     pipeline.fit(X_train, y_train)
 
