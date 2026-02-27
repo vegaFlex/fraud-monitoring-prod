@@ -222,6 +222,8 @@ Supports lifecycle management.
 
 ## Power BI Dashboard
 
+![Power BI Dashboard](assets/powerbi_dashboard.png)
+
 Business analytics layer.
 
 Visualizations:
