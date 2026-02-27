@@ -261,6 +261,11 @@ Visualizations:
 Business value:
 Transforms ML output into executive decision dashboard.
 
+## Project Repository
+
+Full project structure and documentation.
+
+![Project Structure](assets/project.png)
 ---
 
 ## How To Run Project
