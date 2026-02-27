@@ -1,7 +1,10 @@
 # Fraud Monitoring Production System
 
-End-to-end Machine Learning system for fraud detection, risk estimation, monitoring, and business analytics.
+Portfolio Project | Production ML System | Risk Analytics
 
+Production-style fraud monitoring platform simulating real-world risk analytics workflow used in fintech and banking environments.
+
+End-to-end Machine Learning system for fraud detection, risk estimation, monitoring, and business analytics.
 ---
 
 ## Project Goal
@@ -14,6 +17,12 @@ Build a production-style fraud monitoring platform that:
 - stores results in PostgreSQL risk mart
 - monitors model stability
 - provides Power BI business dashboard
+
+## Business Context
+
+Financial institutions do not only detect fraud — they prioritize financial risk.
+
+This system demonstrates how machine learning predictions are transformed into business decisions through expected loss estimation, monitoring, and analytics dashboards.
 
 ---
 
@@ -342,6 +351,17 @@ Detailed analytical report available in:
 REPORT.md
 
 ---
+## Skills Demonstrated
+
+Machine Learning lifecycle  
+Risk analytics modeling  
+Feature engineering  
+API development (FastAPI)  
+PostgreSQL data modeling  
+Production monitoring  
+Data drift detection  
+Business intelligence (Power BI)  
+End-to-end system design
 
 ## Author
 
