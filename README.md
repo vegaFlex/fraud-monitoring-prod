@@ -244,6 +244,12 @@ Supports lifecycle management.
 
 Business analytics layer.
 
+## API Documentation
+
+Realtime scoring API exposed via FastAPI.
+
+![API Swagger](assets/api_swagger.png)
+
 Visualizations:
 
 - KPI total expected loss
