@@ -46,26 +46,44 @@ Power BI
 
 ## Project Structure
 
+```
 fraud-monitoring-prod
 │
 ├── data/
-│ ├── raw
-│ └── processed
+│   ├── raw/
+│   └── processed/
 │
 ├── artifacts/
-│ └── model.joblib
+│   └── model.joblib
 │
-├── src/fraud_monitoring/
-│ ├── api/
-│ ├── batch/
-│ ├── config/
-│ ├── db/
-│ ├── features/
-│ ├── ingest/
-│ ├── monitoring/
-│ └── train/
+├── assets/
+│   └── powerbi_dashboard.png
 │
+├── notebooks/
+│
+├── reports/
+│   └── REPORT.md
+│
+├── sql/
+│
+├── src/
+│   └── fraud_monitoring/
+│       ├── api/
+│       ├── batch/
+│       ├── config/
+│       ├── db/
+│       ├── features/
+│       ├── ingest/
+│       ├── monitoring/
+│       └── train/
+│
+├── tests/
+│
+├── .env
+├── .gitignore
+├── requirements.txt
 └── README.md
+```
 
 ---
 
